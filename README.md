@@ -9,7 +9,7 @@ An end-to-end Exploratory Data Analysis (EDA) of IPL 2025 player statistics, cov
 ```
 ipl2025-eda/
 │
-├── ipl2025_enriched.ipynb     # Main analysis notebook (13 charts + enriched insights)
+├── ipl2025_enriched.ipynb     # Main analysis notebook 
 ├── IPL2025Batters.csv         # Batting dataset — 156 players, 14 columns
 ├── IPL2025Bowlers.csv         # Bowling dataset — 108 players, 13 columns
 └── README.md                  # Project overview (this file)
